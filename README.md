@@ -1,16 +1,41 @@
-## Hi there 👋
+![image](https://kokyujene.github.io/images/my_header.png)
 
-<!--
-**KokyuJene/KokyuJene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 新 高級ジェネ™ <span style="font-size: 0.5em;"> - By Super Hiko14</span>
 
-Here are some ideas to get you started:
+新 高級ジェネ™ サーバーは[Super Hiko14](https://kokyujene.github.io/members/super-hiko14)がオーナーを運営し、[kento](https://kokyujene.github.io/members/kennova758)や[kazekiri](https://kokyujene.github.io/members/kazekiri900/)が副オーナーを運営しています。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**MEMBERS(OP)**<br>
+https://kokyujene.github.io/members
+
+## ALL LINK
+
+**WebSite**<br>
+https://kokyujene.github.io/
+
+**YoutubeCH**<br>
+https://www.youtube.com/@KokyuJene<br>
+https://www.youtube.com/@super-hiko14
+
+**X**<br>
+https://x.com/KokyuJene/
+
+**DiscordServer**<br>
+https://discord.com/invite/ukFH4NtDG6
+
+**OpenChat**<br>
+https://line.me/ti/g2/NUmh2HQ_JhLH9x7VNaR1XAYqIePaEeziz5HClw
+
+**Note**<br>
+https://note.com/kokyujene
+
+**Potofu**<br>
+https://potofu.me/super-hiko14
+
+---
+
+**DiscordServer**<br>
+https://discord.com/invite/ukFH4NtDG6<br>
+![online](https://img.shields.io/discord/1409443404814749698?color=333333&label=%20&labelColor=333333&style=flat-square)
+
+---
+© 2025-2026 高級ジェネ™ All rights reserved.
