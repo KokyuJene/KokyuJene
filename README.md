@@ -17,7 +17,7 @@ https://kokyujene.github.io/
 Super Hiko14 https://www.youtube.com/@super-hiko14
 
 **X**<br>
-高級ジェネ　https://x.com/KokyuJene/
+高級ジェネ　https://x.com/KokyuJene/<br>
 Super Hiko14 https://x.com/super_hiko14/
 
 **DiscordServer**<br>
