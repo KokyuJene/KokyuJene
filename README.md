@@ -10,15 +10,17 @@ https://kokyujene.github.io/members
 ## ALL LINK
 
 **WebSite**<br>
-https://kokyujene.github.io/
+https://kokyujene.super-hiko14.com
+
+**Super Hiko14 Profile**<br>
+https://super-hiko14.com
 
 **YoutubeCH**<br>
 高級ジェネ https://www.youtube.com/@KokyuJene<br>
 Super Hiko14 https://www.youtube.com/@super-hiko14
 
 **X**<br>
-高級ジェネ　https://x.com/KokyuJene/<br>
-Super Hiko14 https://x.com/super_hiko14/
+高級ジェネ　https://x.com/KokyuJene/
 
 **DiscordServer**<br>
 https://discord.com/invite/ukFH4NtDG6
@@ -29,22 +31,12 @@ https://line.me/ti/g2/NUmh2HQ_JhLH9x7VNaR1XAYqIePaEeziz5HClw
 **Note**<br>
 https://note.com/kokyujene
 
-**Potofu**<br>
-https://potofu.me/super-hiko14
-
 ---
 
 **DiscordServer**<br>
 バグやプレイヤーの報告/サーバーが開かれた際の通知用など機能が充実!<br>
-https://discord.com/invite/ukFH4NtDG6<br>
+https://discord.super-hiko14.com<br>
 ![online](https://img.shields.io/discord/1409443404814749698?color=333333&label=%20&labelColor=333333&style=flat-square)
 
 ---
-
-X - Super Hiko14<br>
-変なポストは通常運転<br>
-どうでもいいことをただただ呟いているだけ(高級ジェネに関連することも出るかも?!)<br>
-https://x.com/super_hiko14
-
----
-© 2025-2026 高級ジェネ™ All rights reserved.
+© 2025-2026 Super Hiko14 / 高級ジェネ™ All rights reserved.
