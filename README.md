@@ -5,7 +5,7 @@
 新 高級ジェネ™ サーバーは[Super Hiko14](https://kokyujene.github.io/members/super-hiko14)がオーナーを運営し、[kento](https://kokyujene.github.io/members/kennova758)や[kazekiri](https://kokyujene.github.io/members/kazekiri900/)が副オーナーを運営しています。
 
 **MEMBERS(OP)**<br>
-https://kokyujene.github.io/members
+https://kokyujene.super-hiko14.com/members
 
 ## ALL LINK
 
