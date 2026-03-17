@@ -2,41 +2,37 @@
 
 # 新 高級ジェネ™
 
-新 高級ジェネ™ サーバーは[Super Hiko14](https://kokyujene.github.io/members/super-hiko14)がオーナーを運営し、[kento](https://kokyujene.github.io/members/kennova758)や[kazekiri](https://kokyujene.github.io/members/kazekiri900/)が副オーナーを運営しています。
+[Super Hiko14](https://kokyujene.super-hiko14.com/members/super-hiko14)がオーナー、[kento](https://kokyujene.super-hiko14.com/members/kennova758)や[kazekiri](https://kokyujene.super-hiko14.com/members/kazekiri900)が副オーナーとして運営している、マインクラフトサーバーです。<br>
 
-**MEMBERS(OP)**<br>
-https://kokyujene.super-hiko14.com/members
+このアカウントでは、Super Hiko14が開発/運営するサービスを公開/提供していきます。<br>
+
+↓他の運営メンバーはこちら↓<br>
+**[MEMBERS(OP)](https://kokyujene.super-hiko14.com/members)**<br>
 
 ## ALL LINK
 
-**WebSite**<br>
+**新 高級ジェネ™ 公式サイト**<br>
 https://kokyujene.super-hiko14.com
 
 **Super Hiko14 Profile**<br>
 https://super-hiko14.com
 
 **YoutubeCH**<br>
-高級ジェネ https://www.youtube.com/@KokyuJene<br>
-Super Hiko14 https://www.youtube.com/@super-hiko14
-
-**X**<br>
-高級ジェネ　https://x.com/KokyuJene/
-
-**DiscordServer**<br>
-https://discord.com/invite/ukFH4NtDG6
-
-**OpenChat**<br>
-https://line.me/ti/g2/NUmh2HQ_JhLH9x7VNaR1XAYqIePaEeziz5HClw
+高級ジェネ / @KokyuJene: https://www.youtube.com/@KokyuJene<br>
+Super Hiko14 / @super-hiko14: https://www.youtube.com/@super-hiko14
 
 **Note**<br>
-https://note.com/kokyujene
+高級ジェネ / @kokyujene: https://note.com/kokyujene
 
----
+**Misskey**<br>
+Super Hiko14 / @KokyuJene: https://misskey.io/@KokyuJene
 
 **DiscordServer**<br>
-バグやプレイヤーの報告/サーバーが開かれた際の通知用など機能が充実!<br>
-https://discord.super-hiko14.com<br>
-![online](https://img.shields.io/discord/1409443404814749698?color=333333&label=%20&labelColor=333333&style=flat-square)
+高級ジェネ: https://discord.com/invite/ukFH4NtDG6
+
+**OpenChat**<br>
+高級ジェネ: https://line.me/ti/g2/NUmh2HQ_JhLH9x7VNaR1XAYqIePaEeziz5HClw
 
 ---
+
 © 2025-2026 Super Hiko14 / 高級ジェネ™ All rights reserved.
