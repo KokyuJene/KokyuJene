@@ -34,5 +34,9 @@ Super Hiko14 / @KokyuJene: https://misskey.io/@KokyuJene
 高級ジェネ: https://line.me/ti/g2/NUmh2HQ_JhLH9x7VNaR1XAYqIePaEeziz5HClw
 
 ---
+<a href="https://justuuid.pages.dev/u/61ce5dc8-4c69-4883-905e-4f1cff5ed1a1" target="_blank" rel="noopener noreferrer">
+  <img src="https://justuuid.pages.dev/api/badge/u/61ce5dc8-4c69-4883-905e-4f1cff5ed1a1.svg" alt="UUID Badge" />
+</a>
+---
 
 © 2025-2026 Super Hiko14 / 高級ジェネ™ All rights reserved.
