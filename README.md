@@ -1,4 +1,4 @@
-![image](https://kokyujene.github.io/images/my_header.png)
+hi![image](https://kokyujene.github.io/images/my_header.png)
 
 # 新 高級ジェネ™
 
@@ -32,6 +32,7 @@ Super Hiko14 / @KokyuJene: https://misskey.io/@KokyuJene
 
 **OpenChat**<br>
 高級ジェネ: https://line.me/ti/g2/NUmh2HQ_JhLH9x7VNaR1XAYqIePaEeziz5HClw
+
 ---
 
 © 2025-2026 Super Hiko14 / 高級ジェネ™ All rights reserved.
