@@ -1,4 +1,4 @@
-hi![image](https://kokyujene.github.io/images/my_header.png)
+![image](https://kokyujene.github.io/images/my_header.png)
 
 # 新 高級ジェネ™
 
