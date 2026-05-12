@@ -5,8 +5,6 @@
 
 </div>
 
----
-
 <p align="center">
   <b>Q. Who is he?</b><br>
   A. Hmm... Who on earth is he?????
@@ -55,4 +53,4 @@
 - [super-hiko14.com/contact](https://super-hiko14.com/contact)
 - info@super-hiko14.com
 ---
-© Super Hiko14 / 高級ジェネ™ / ツミキapp
+<p align="center">© Super Hiko14 / 高級ジェネ™ / ツミキapp</p>
