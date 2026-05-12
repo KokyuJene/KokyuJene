@@ -1,5 +1,9 @@
-# <center>Super Hiko14</center>
-### <center>[super-hiko14.com](https://super-hiko14.com)</center>
+<div align="center">
+
+# Super Hiko14
+### [super-hiko14.com](https://super-hiko14.com)
+
+</div>
 
 <p align="center">
   <b>Q. Who is he?</b><br>
